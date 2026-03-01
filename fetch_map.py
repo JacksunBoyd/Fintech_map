@@ -836,6 +836,29 @@ if __name__ == "__main__":
             b["region"] = "N/A"
 
     all_institutions = banks + cu_branches
+
+    # Deduplicate: FDIC sometimes returns the same physical location as both
+    # a "main office" record and a "branch" record.  Also handles floating-point
+    # coordinate drift (e.g. 31.6111870164104 vs 31.61118701641037).
+    # Key: (name, lat rounded to 4dp, lon rounded to 4dp)  ≈ ~11 m tolerance.
+    seen_keys: set = set()
+    deduped = []
+    for inst in all_institutions:
+        lat = inst.get("lat")
+        lon = inst.get("lon")
+        key = (
+            inst.get("name", "").strip().lower(),
+            round(lat, 4) if lat else None,
+            round(lon, 4) if lon else None,
+        )
+        if key not in seen_keys:
+            seen_keys.add(key)
+            deduped.append(inst)
+    removed = len(all_institutions) - len(deduped)
+    if removed:
+        print(f"  Removed {removed} duplicate location(s)  ({len(deduped)} remain)")
+    all_institutions = deduped
+
     print(f"\n=== Writing institution log ===")
     write_log(all_institutions)
     print(f"\n=== Building map ({len(all_institutions)} total) ===")

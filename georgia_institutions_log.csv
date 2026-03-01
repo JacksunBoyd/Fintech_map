@@ -1,7 +1,6 @@
 name,type,subtype,region,address,city,state,zip,lat,lon,total_assets_thousands,total_assets_formatted,established_year
 AB&T,Bank,Community Bank,Central Georgia,"2815 Meredyth Dr, Albany, GA 31707",Albany,GA,31707,31.61118701641037,-84.22056297036845,"279,792",$279.8M,1999
 AB&T,Bank,Community Bank,Central Georgia,"241 Pine Ave, Albany, GA 31701",Albany,GA,31701,31.578888986994926,-84.15299200646253,"279,792",$279.8M,2004
-AB&T,Bank,Community Bank,Central Georgia,"2815 Meredyth Dr, Albany, GA 31707",Albany,GA,31707,31.6111870164104,-84.2205629703684,"279,792",$279.8M,1999
 "Affinity Bank, National Association",Bank,Community Bank,Metro Atlanta,"400 Galleria Pkwy Se, Atlanta, GA 30339",Atlanta,GA,30339,33.8868689927677,-84.46163698307315,"881,423",$881.4M,2002
 "Affinity Bank, National Association",Bank,Community Bank,Metro Atlanta,"3175 Highway 278, Covington, GA 30014",Covington,GA,30014,33.602934096332,-83.857342439677,"881,423",$881.4M,1928
 Altamaha Bank & Trust Company,Bank,Community Bank,Central Georgia,"206 Jackson St, Vidalia, GA 30474",Vidalia,GA,30474,32.2158720121793,-82.412043978652,"333,342",$333.3M,1966
@@ -26,7 +25,6 @@ Ameris Bank,Bank,Regional Bank,Central Georgia,"100 Pearl Ave S, Douglas, GA 315
 Ameris Bank,Bank,Regional Bank,Coastal Georgia,"26 Drayton St, Savannah, GA 31401",Savannah,GA,31401,32.07957862088952,-81.09042469957522,"27,432,143",$27.43B,1954
 Ameris Bank,Bank,Regional Bank,Metro Atlanta,"3490 Piedmont Rd Ne, Atlanta, GA 30305",Atlanta,GA,30305,33.8483189855927,-84.3765790222104,"27,432,143",$27.43B,1971
 Ameris Bank,Bank,Regional Bank,Central Georgia,"208 E Greene St, Monticello, GA 31064",Monticello,GA,31064,33.30391097967696,-83.68243104018384,"27,432,143",$27.43B,1906
-Ameris Bank,Bank,Regional Bank,Metro Atlanta,"3490 Piedmont Rd Ne, Atlanta, GA 30305",Atlanta,GA,30305,33.84831898559273,-84.37657902221036,"27,432,143",$27.43B,1974
 Ameris Bank,Bank,Regional Bank,Metro Atlanta,"301 E Church St, Cartersville, GA 30120",Cartersville,GA,30120,34.16786798004428,-84.79124501570652,"27,432,143",$27.43B,1974
 Ameris Bank,Bank,Regional Bank,Metro Atlanta,"6157 Fairburn Rd, Douglasville, GA 30134",Douglasville,GA,30134,33.750891958490705,-84.73326285529085,"27,432,143",$27.43B,1974
 Ameris Bank,Bank,Regional Bank,Coastal Georgia,"101 W Hendry St, Hinesville, GA 31313",Hinesville,GA,31313,31.84400296855904,-81.59757997915037,"27,432,143",$27.43B,1916
@@ -68,7 +66,6 @@ Ameris Bank,Bank,Regional Bank,Coastal Georgia,"605 Us Highway 80 W, Pooler, GA 
 Ameris Bank,Bank,Regional Bank,Central Georgia,"97 S Broad St, Butler, GA 31006",Butler,GA,31006,32.550351984123864,-84.23992198158052,"27,432,143",$27.43B,2000
 Ameris Bank,Bank,Regional Bank,Central Georgia,"285 S Broad St, Ellaville, GA 31806",Ellaville,GA,31806,32.23402101184894,-84.30819995901929,"27,432,143",$27.43B,1910
 Ameris Bank,Bank,Regional Bank,Coastal Georgia,"2509 Osborne Rd, Saint Marys, GA 31558",Saint Marys,GA,31558,30.75036199798359,-81.57391401081063,"27,432,143",$27.43B,1989
-Ameris Bank,Bank,Regional Bank,Coastal Georgia,"2509 Osborne Rd, Saint Marys, GA 31558",Saint Marys,GA,31558,30.75036199798359,-81.57391401081063,"27,432,143",$27.43B,2001
 Ameris Bank,Bank,Regional Bank,Metro Atlanta,"1005 Tyrone Rd, Tyrone, GA 30290",Tyrone,GA,30290,33.47967098163426,-84.58656204146638,"27,432,143",$27.43B,2003
 Ameris Bank,Bank,Regional Bank,Metro Atlanta,"3411 Ernest W Barrett Pkwy Nw, Marietta, GA 30064",Marietta,GA,30064,33.94882500355543,-84.62272098503202,"27,432,143",$27.43B,2004
 Ameris Bank,Bank,Regional Bank,Metro Atlanta,"1907 Highway 211 Nw, Hoschton, GA 30548",Hoschton,GA,30548,34.091145402794,-83.806228984057,"27,432,143",$27.43B,2004
@@ -88,7 +85,6 @@ Ameris Bank,Bank,Regional Bank,Metro Atlanta,"5895 Jeff Davis Ln Nw, Acworth, GA
 Ameris Bank,Bank,Regional Bank,Central Georgia,"114 West 6th Avenue, Buena Vista, GA 31803",Buena Vista,GA,31803,32.317882,-84.520421,"27,432,143",$27.43B,2007
 Ameris Bank,Bank,Regional Bank,Metro Atlanta,"159 Woodstock Square Ave, Woodstock, GA 30189",Woodstock,GA,30189,34.08465801928409,-84.54322399783098,"27,432,143",$27.43B,2007
 Ameris Bank,Bank,Regional Bank,Central Georgia,"2627 Dawson Rd, Albany, GA 31707",Albany,GA,31707,31.6179359991187,-84.22121600444486,"27,432,143",$27.43B,1991
-Ameris Bank,Bank,Regional Bank,Rural South Georgia,"735 2nd St W, Tifton, GA 31794",Tifton,GA,31794,31.45839401588701,-83.52424298577208,"27,432,143",$27.43B,2008
 Ameris Bank,Bank,Regional Bank,Metro Atlanta,"3607 Mundy Mill Rd, Oakwood, GA 30566",Oakwood,GA,30566,34.22669100306308,-83.86805499152655,"27,432,143",$27.43B,2008
 Ameris Bank,Bank,Regional Bank,Metro Atlanta,"1908 Highway 211 Nw, Hoschton, GA 30548",Hoschton,GA,30548,34.0905279918064,-83.80835396415011,"27,432,143",$27.43B,2004
 Ameris Bank,Bank,Regional Bank,Coastal Georgia,"140 Towne Center Blvd, Pooler, GA 31322",Pooler,GA,31322,32.14343501820389,-81.24822896032046,"27,432,143",$27.43B,2008
@@ -557,7 +553,6 @@ First American Bank and Trust Company,Bank,Community Bank,Central Georgia,"2241 
 First American Bank and Trust Company,Bank,Community Bank,Central Georgia,"825 Hull Rd, Athens, GA 30601",Athens,GA,30601,33.992101985026196,-83.34008603512314,"853,218",$853.2M,1984
 First American Bank and Trust Company,Bank,Community Bank,Central Georgia,"1681 Experiment Station Rd, Watkinsville, GA 30677",Watkinsville,GA,30677,33.87051099625906,-83.42840899872985,"853,218",$853.2M,2001
 First American Bank and Trust Company,Bank,Community Bank,North Georgia,"550 Highway 441 S, Clayton, GA 30525",Clayton,GA,30525,34.869986020433714,-83.40152898961749,"853,218",$853.2M,2003
-First American Bank and Trust Company,Bank,Community Bank,Central Georgia,"300 College Ave, Athens, GA 30601",Athens,GA,30601,33.95985298974432,-83.37574298650759,"853,218",$853.2M,2010
 First American Bank and Trust Company,Bank,Community Bank,Metro Atlanta,"65 E May St, Winder, GA 30680",Winder,GA,30680,33.98835598676854,-83.71978901499872,"853,218",$853.2M,1998
 First American Bank and Trust Company,Bank,Community Bank,Metro Atlanta,"235 W Crogan St, Lawrenceville, GA 30046",Lawrenceville,GA,30046,33.95640999728647,-83.99099898710428,"853,218",$853.2M,2020
 First Arkansas Bank and Trust,Bank,Regional Bank,Metro Atlanta,"200 Chastain Center Blvd Nw, Kennesaw, GA 30144",Kennesaw,GA,30144,34.035745004208636,-84.56477596637085,"1,166,855",$1.17B,2018
@@ -864,7 +859,6 @@ Metro City Bank,Bank,Regional Bank,Metro Atlanta,"5114 Buford Hwy Ne, Doraville,
 Metro City Bank,Bank,Regional Bank,Metro Atlanta,"2230 Pleasant Hill Rd, Duluth, GA 30096",Duluth,GA,30096,33.961706018988835,-84.1358479969836,"4,713,542",$4.71B,2006
 Metro City Bank,Bank,Regional Bank,Metro Atlanta,"3725 Old Norcross Rd, Duluth, GA 30096",Duluth,GA,30096,33.96344798801627,-84.14193300723188,"4,713,542",$4.71B,2007
 Metro City Bank,Bank,Regional Bank,Metro Atlanta,"10820 Abbotts Bridge Rd, Duluth, GA 30097",Duluth,GA,30097,34.046155788957,-84.177099449643,"4,713,542",$4.71B,2023
-Metro City Bank,Bank,Regional Bank,Metro Atlanta,"10820 Abbotts Bridge Rd, Johns Creek, GA 30097",Johns Creek,GA,30097,34.04615578895721,-84.17709944964251,"4,713,542",$4.71B,2007
 Metro City Bank,Bank,Regional Bank,Metro Atlanta,"2790 Lawrenceville Suwanee Rd, Suwanee, GA 30024",Suwanee,GA,30024,34.02320299484916,-84.04505295867335,"4,713,542",$4.71B,2008
 Metro City Bank,Bank,Regional Bank,Metro Atlanta,"1291 Old Peachtree Rd Nw, Suwanee, GA 30024",Suwanee,GA,30024,34.004986017944745,-84.0834310111047,"4,713,542",$4.71B,2009
 Metro City Bank,Bank,Regional Bank,Metro Atlanta,"5385 Jimmy Carter Blvd, Norcross, GA 30093",Norcross,GA,30093,33.90611401009659,-84.20536498734977,"4,713,542",$4.71B,2008
@@ -877,7 +871,6 @@ Metro City Bank,Bank,Regional Bank,Central Georgia,"1510 Lafayette Parkway, Lagr
 Metro City Bank,Bank,Regional Bank,Metro Atlanta,"5593 Buford Hwy Ne, Doraville, GA 30340",Doraville,GA,30340,33.903522283725,-84.272243522234,"4,713,542",$4.71B,2025
 Millennium Bank,Bank,Community Bank,North Georgia,"350 W Belmont Dr, Calhoun, GA 30701",Calhoun,GA,30701,34.479908717088,-84.942591760746,"791,767",$791.8M,2000
 Millennium Bank,Bank,Community Bank,North Georgia,"100 Red Bud Rd Ne, Calhoun, GA 30701",Calhoun,GA,30701,34.51479201880973,-84.94562902718113,"791,767",$791.8M,2004
-Millennium Bank,Bank,Community Bank,North Georgia,"350 W Belmont Dr, Calhoun, GA 30701",Calhoun,GA,30701,34.479908717088,-84.942591760746,"791,767",$791.8M,2025
 Millennium Bank,Bank,Community Bank,North Georgia,"1412 Chattanooga Avenue Extension, Dalton, GA 30720",Dalton,GA,30720,34.794298985412,-84.975064008019,"791,767",$791.8M,2023
 Morris Bank,Bank,Regional Bank,Coastal Georgia,"201 N Main St, Statesboro, GA 30458",Statesboro,GA,30458,32.45435199348924,-81.78430698895096,"1,549,495",$1.55B,1948
 Morris Bank,Bank,Regional Bank,Central Georgia,"301 Bellevue Ave, Dublin, GA 31021",Dublin,GA,31021,32.5392670009934,-82.9081270019096,"1,549,495",$1.55B,1954
@@ -916,7 +909,6 @@ Paragon Bank,Bank,Community Bank,Metro Atlanta,"2970 Clairmont Rd Ne, Atlanta, G
 Paragon Bank,Bank,Community Bank,Metro Atlanta,"293 Pharr Road, Atlanta, GA 30305",Atlanta,GA,30305,33.83685400888177,-84.37815599347378,"888,558",$888.6M,2023
 PCB Bank,Bank,Regional Bank,Metro Atlanta,"2870 Lawrenceville Suwanee Rd, Suwanee, GA 30024",Suwanee,GA,30024,34.024911017169,-84.045771958328,"3,280,733",$3.28B,2025
 Peach State Bank & Trust,Bank,Community Bank,North Georgia,"121 E E Butler Pkwy, Gainesville, GA 30501",Gainesville,GA,30501,34.300999005465,-83.825731996366,"786,088",$786.1M,2005
-Peach State Bank & Trust,Bank,Community Bank,North Georgia,"121 Ee Butler Pkwy, Gainesville, GA 30501",Gainesville,GA,30501,34.3009990054653,-83.8257319963657,"786,088",$786.1M,2005
 Peach State Bank & Trust,Bank,Community Bank,Metro Atlanta,"1502 Friendship Rd, Braselton, GA 30517",Braselton,GA,30517,34.119089178883,-83.834201761063,"786,088",$786.1M,2021
 Peoples Bank,Bank,Community Bank,Central Georgia,"2301 E 1st St, Vidalia, GA 30474",Vidalia,GA,30474,32.20768599408105,-82.38254001475057,"188,769",$188.8M,2017
 Peoples Bank,Bank,Community Bank,Central Georgia,"299 W Liberty Ave, Lyons, GA 30436",Lyons,GA,30436,32.2014910132631,-82.3278559755198,"188,769",$188.8M,1931
@@ -1052,7 +1044,6 @@ Pinnacle Bank,Bank,Regional Bank,Central Georgia,"677 Kemper Dr, Evans, GA 30809
 Pinnacle Bank,Bank,Regional Bank,North Georgia,"1948 Jesse Jewell Pkwy Se, Gainesville, GA 30501",Gainesville,GA,30501,34.31340200096062,-83.7949959765165,"2,267,326",$2.27B,2019
 Pinnacle Bank,Bank,Regional Bank,Metro Atlanta,"3460 Sandy Plains Rd, Marietta, GA 30066",Marietta,GA,30066,34.034358008780686,-84.46289804040589,"57,636,946",$57.64B,2020
 Pinnacle Bank,Bank,Regional Bank,Metro Atlanta,"3333 Riverwood Pkwy Se, Atlanta, GA 30339",Atlanta,GA,30339,33.87839698413312,-84.46002799293959,"57,636,946",$57.64B,2020
-Pinnacle Bank,Bank,Regional Bank,Metro Atlanta,"3333 Riverwood Pkwy Se, Atlanta, GA 30339",Atlanta,GA,30339,33.87839698413312,-84.46002799293959,"57,636,946",$57.64B,2020
 Pinnacle Bank,Bank,Regional Bank,North Georgia,"218 Carpenters Cove Ln, Cornelia, GA 30531",Cornelia,GA,30531,34.54090600579087,-83.53943099432598,"2,267,326",$2.27B,2020
 Pinnacle Bank,Bank,Regional Bank,North Georgia,"545 Dawsonville Hwy, Gainesville, GA 30501",Gainesville,GA,30501,34.294947983834405,-83.85196098305842,"2,267,326",$2.27B,2020
 Pinnacle Bank,Bank,Regional Bank,Metro Atlanta,"2211 Marietta Blvd Nw, Atlanta, GA 30318",Atlanta,GA,30318,33.817662007090476,-84.4474579880235,"57,636,946",$57.64B,2020
@@ -1067,7 +1058,6 @@ Pinnacle Bank,Bank,Regional Bank,Metro Atlanta,"3050 Northwinds Parkway, Alphare
 Pinnacle Bank,Bank,Regional Bank,Metro Atlanta,"384 Northyards Blvd. Nw, Ste. 150, Atlanta, GA 30313",Ste. 150,GA,30313,33.767370001305,-84.400224035792,"57,636,946",$57.64B,2024
 Pinnacle Bank,Bank,Regional Bank,Metro Atlanta,"1960 Satellite Blvd, Duluth, GA 30097",Duluth,GA,30097,33.990116982716,-84.085087023715,"57,636,946",$57.64B,2024
 Pinnacle Bank,Bank,Regional Bank,Central Georgia,"1300 Front Avenue, Columbus, GA 31901",Columbus,GA,31901,32.47071149874,-84.994387899057,"57,636,946",$57.64B,2024
-Pinnacle Bank,Bank,Regional Bank,Metro Atlanta,"1960 Satellite Blvd, Duluth, GA 30097",Duluth,GA,30097,33.990116982716,-84.085087023715,"57,636,946",$57.64B,2025
 Pinnacle Bank,Bank,Regional Bank,Coastal Georgia,"1602 Walton Way, Augusta, GA 30904",Augusta,GA,30904,33.475133019255,-81.992469039742,"2,267,326",$2.27B,2025
 Pinnacle Bank,Bank,Regional Bank,Central Georgia,"1000 Veterans Pkwy, Columbus, GA 31901",Columbus,GA,31901,32.465010798753,-84.987167979119,"57,636,946",$57.64B,2024
 Pinnacle Bank,Bank,Regional Bank,North Georgia,"211 S 3rd Ave, Chatsworth, GA 30705",Chatsworth,GA,30705,34.764430995455214,-84.76998599468264,"57,636,946",$57.64B,1906
@@ -1141,7 +1131,6 @@ Planters First Bank,Bank,Community Bank,Central Georgia,"201 Sheraton Boulevard,
 "PNC Bank, National Association",Bank,National Bank,Metro Atlanta,"52 Gwinnett Drive, Lawrenceville, GA 30046",Lawrenceville,GA,30046,33.94702398402,-83.996187971903,"568,338,163",$568.34B,2023
 "PNC Bank, National Association",Bank,National Bank,Metro Atlanta,"135 Riverside Pkwy, Austell, GA 30168",Austell,GA,30168,33.771876992552,-84.557397041729,"568,338,163",$568.34B,2023
 "PNC Bank, National Association",Bank,National Bank,Metro Atlanta,"1297 Mcdonough Boulevard Southeast, Atlanta, GA 30315",Atlanta,GA,30315,33.719052897635,-84.385398879827,"568,338,163",$568.34B,2023
-"PNC Bank, National Association",Bank,National Bank,Metro Atlanta,"2050 Chamblee Tucker Rd, Atlanta, GA 30341",Atlanta,GA,30341,33.886164577625,-84.304216208078,"568,338,163",$568.34B,2023
 PrimeSouth Bank,Bank,Regional Bank,Rural South Georgia,"530 Memorial Dr, Waycross, GA 31501",Waycross,GA,31501,31.210880983253418,-82.35238796209562,"1,467,071",$1.47B,1997
 PrimeSouth Bank,Bank,Regional Bank,Coastal Georgia,"1795 Frederica Rd, Saint Simons Island, GA 31522",Saint Simons Island,GA,31522,31.16455399485517,-81.38693998632344,"1,467,071",$1.47B,1999
 PrimeSouth Bank,Bank,Regional Bank,Coastal Georgia,"128 Altama Connector, Brunswick, GA 31525",Brunswick,GA,31525,31.21481201202367,-81.48354603046717,"1,467,071",$1.47B,2001
@@ -1270,7 +1259,6 @@ Regions Bank,Bank,National Bank,Metro Atlanta,"1581 Satellite Blvd, Duluth, GA 3
 Regions Bank,Bank,National Bank,Metro Atlanta,"1900 Scenic Hwy N, Snellville, GA 30078",Snellville,GA,30078,33.874451999494084,-84.01327599026881,"158,218,000",$158.22B,2006
 Regions Bank,Bank,National Bank,Metro Atlanta,"3880 Lavista Rd, Tucker, GA 30084",Tucker,GA,30084,33.84320300717056,-84.25930999417757,"158,218,000",$158.22B,2006
 Regions Bank,Bank,National Bank,Central Georgia,"300 S Peachtree Pkwy, Peachtree City, GA 30269",Peachtree City,GA,30269,33.37782000348801,-84.55783197868514,"158,218,000",$158.22B,1989
-Regions Bank,Bank,National Bank,Central Georgia,"120 Keys Ferry St, Mcdonough, GA 30253",Mcdonough,GA,30253,33.447318008843496,-84.14334804012596,"158,218,000",$158.22B,2002
 Regions Bank,Bank,National Bank,Rural South Georgia,"2611 N Patterson St, Valdosta, GA 31602",Valdosta,GA,31602,30.867933989906646,-83.2894409835755,"158,218,000",$158.22B,1990
 Regions Bank,Bank,National Bank,Metro Atlanta,"121 W Paces Ferry Rd Nw, Atlanta, GA 30305",Atlanta,GA,30305,33.84241498254352,-84.38475297036803,"158,218,000",$158.22B,2006
 Regions Bank,Bank,National Bank,Metro Atlanta,"6145 Jonesboro Rd, Morrow, GA 30260",Morrow,GA,30260,33.58746200501335,-84.33912197329994,"158,218,000",$158.22B,2007
@@ -1278,7 +1266,6 @@ Regions Bank,Bank,National Bank,Metro Atlanta,"620 E Main St, Cartersville, GA 3
 Regions Bank,Bank,National Bank,Metro Atlanta,"3110 Old Atlanta Rd, Suwanee, GA 30024",Suwanee,GA,30024,34.111085615172556,-84.15314950242319,"158,218,000",$158.22B,2007
 Regions Bank,Bank,National Bank,North Georgia,"1400 Turner Mccall Blvd Sw, Rome, GA 30161",Rome,GA,30161,34.25188800983685,-85.16368096934802,"158,218,000",$158.22B,1993
 Regions Bank,Bank,National Bank,Metro Atlanta,"3511 Camp Creek Pkwy, East Point, GA 30344",East Point,GA,30344,33.654629003095735,-84.50272599444851,"158,218,000",$158.22B,2009
-Regions Bank,Bank,National Bank,Central Georgia,"327 W Taylor St, Griffin, GA 30223",Griffin,GA,30223,33.24753999861308,-84.26840301801842,"158,218,000",$158.22B,2009
 Regions Bank,Bank,National Bank,Metro Atlanta,"1180 W Peachtree St Nw, Atlanta, GA 30309",Atlanta,GA,30309,33.78698202026402,-84.38830203581057,"158,218,000",$158.22B,2012
 Regions Bank,Bank,National Bank,Rural South Georgia,"103 N West St, Bainbridge, GA 39817",Bainbridge,GA,39817,30.90598699213284,-84.57665303935141,"158,218,000",$158.22B,1911
 Regions Bank,Bank,National Bank,Coastal Georgia,"836 E Winthrope Ave, Millen, GA 30442",Millen,GA,30442,32.80338097959914,-81.93598800428956,"158,218,000",$158.22B,1893
@@ -2079,21 +2066,16 @@ ARTESIAN,Credit Union,Community-Based,Central Georgia,"100 Flint Ave, Albany, GA
 ARTESIAN,Credit Union,Community-Based,Central Georgia,"1221 US Highway 82 W, Leesburg, GA 31763",Leesburg,GA,31763,31.637510590628,-84.248223621106,"31,300",$31.3M,1950
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,Metro Atlanta,"6251 Crooked Creek Rd, Norcross, GA 30092",Norcross,GA,30092,33.954064531312,-84.24101508091,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,N/A,"Fort McPherson, Atlanta, GA 30310",Atlanta,GA,30310,,,"2,227,972",$2.23B,1930
-ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,N/A,"Vinings - Home Depot, Atlanta, GA 30339",Atlanta,GA,30339,,,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,Metro Atlanta,"2250 N Druid Hills Rd NE Ste 134, Atlanta, GA 30329",Atlanta,GA,30329,33.829783311653,-84.332626077168,"2,227,972",$2.23B,1930
-ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,N/A,"Techwood Office, Atlanta, GA 30318",Atlanta,GA,30318,,,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,Central Georgia,"1219 N Park St, Carrollton, GA 30117",Carrollton,GA,30117,33.602347011621,-85.079385786615,"2,227,972",$2.23B,1930
-ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,N/A,"Chamblee II Internal Revenue Service, Chamblee, GA 30341",Chamblee,GA,30341,,,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,Metro Atlanta,"3012 Anvil Block Rd, Ellenwood, GA 30294",Ellenwood,GA,30294,33.633792347799,-84.291225622932,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,Metro Atlanta,"867 Buford Dr, Lawrenceville, GA 30043",Lawrenceville,GA,30043,33.985307664454,-83.984604203229,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,Metro Atlanta,"395 Grayson Hwy, Lawrenceville, GA 30046",Lawrenceville,GA,30046,33.941074745435,-83.982608013385,"2,227,972",$2.23B,1930
-ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,N/A,"Dobbins Air Reserve Base, Marietta, GA 30060",Marietta,GA,30060,,,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,Metro Atlanta,"1470 Beaver Ruin Rd, Norcross, GA 30093",Norcross,GA,30093,33.930670575045,-84.145016928723,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,Coastal Georgia,"3749 Wheeler Rd, Augusta, GA 30909",Augusta,GA,30909,33.482827396307,-82.095040590154,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,Central Georgia,"511 N Belair Rd, Evans, GA 30809",Evans,GA,30809,33.535426347997,-82.129364076889,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,North Georgia,"4236 McEver Rd, Oakwood, GA 30566",Oakwood,GA,30566,34.253427533941,-83.891767445864,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,North Georgia,"4200 Dawson Forest Rd E, Dawsonville, GA 30534",Dawsonville,GA,30534,34.353353423811,-84.044061370949,"2,227,972",$2.23B,1930
-ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,N/A,"870 Freeman Street, Decatur, GA 30030",Decatur,GA,30030,,,"2,227,972",$2.23B,1930
 ASSOCIATED CREDIT UNION,Credit Union,Multiple Common Bond,Metro Atlanta,"1670 Clairmont Rd, Decatur, GA 30033",Decatur,GA,30033,33.802761390228,-84.310492814735,"2,227,972",$2.23B,1930
 ATLANTA POSTAL,Credit Union,Multiple Common Bond,Metro Atlanta,"400 Porsche Avenue, Atlanta, GA 30354",Atlanta,GA,30354,33.655534387953,-84.403918842428,"2,554,686",$2.55B,1925
 ATLANTA POSTAL,Credit Union,Multiple Common Bond,Metro Atlanta,"1605 Boggs Rd, Duluth, GA 30096",Duluth,GA,30096,33.957561180461,-84.093931418139,"2,554,686",$2.55B,1925
@@ -2125,7 +2107,6 @@ CGR,Credit Union,Multiple Common Bond,Central Georgia,"1110 Hwy 96, Kathleen, GA
 CGR,Credit Union,Multiple Common Bond,Central Georgia,"820 N Cobb St, Milledgeville, GA 31061",Milledgeville,GA,31061,33.088919505373,-83.246604750763,"114,604",$114.6M,1991
 CGR,Credit Union,Multiple Common Bond,Central Georgia,"5500 Zebulon Rd, Macon, GA 31210",Macon,GA,31210,32.879607180824,-83.743832196508,"114,604",$114.6M,1991
 COCA-COLA,Credit Union,Occupational,N/A,"1 Coca Cola Plz NW, Atlanta, GA 30313",Atlanta,GA,30313,,,"206,108",$206.1M,1965
-COCA-COLA,Credit Union,Occupational,N/A,"1 Coca Cola PLZ NW, Atlanta, GA 30313",Atlanta,GA,30313,,,"206,108",$206.1M,1965
 COFFEE COUNTY TEACHERS,Credit Union,Occupational,Central Georgia,"1006 Madison Ave N, Douglas, GA 31533",Douglas,GA,31533,31.518463213669,-82.849253096974,"3,166",$3.2M,1964
 COLQUITT COUNTY TEACHER,Credit Union,Occupational,Rural South Georgia,"1833 Park Ave SE, Moultrie, GA 31768",Moultrie,GA,31768,31.171807242202,-83.763462247343,"9,840",$9.8M,1957
 COMBINED EMPLOYEES,Credit Union,Multiple Common Bond,Central Georgia,"593 Russell Pkwy, Warner Robins, GA 31088",Warner Robins,GA,31088,32.59384667976,-83.632761760152,"17,483",$17.5M,1969
@@ -2154,13 +2135,11 @@ CREDIT UNION 1,Credit Union,Multiple Common Bond,Metro Atlanta,"1237 Clairmont R
 CREDIT UNION OF ATLANTA,Credit Union,Multiple Common Bond,Metro Atlanta,"670 Metropolitan Pkwy SW, Atlanta, GA 30310",Atlanta,GA,30310,33.736720442722,-84.4080683133,"80,413",$80.4M,1928
 CREDIT UNION OF GEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"3048 Eagle Dr, Woodstock, GA 30189",Woodstock,GA,30189,34.112555851996,-84.559172316612,"712,454",$712.5M,1960
 CREDIT UNION OF GEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"69 South Ave SE, Marietta, GA 30060",Marietta,GA,30060,33.949036146885,-84.537311659833,"712,454",$712.5M,1960
-CREDIT UNION OF GEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"69 South Ave SE, Marietta, GA 30060",Marietta,GA,30060,33.949036146885,-84.537311659833,"712,454",$712.5M,1960
 CREDIT UNION OF GEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"140 Riverstone Pkwy, Canton, GA 30114",Canton,GA,30114,34.243895743158,-84.4908347957,"712,454",$712.5M,1960
 CREDIT UNION OF GEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"2667 Dallas Hwy SW, Marietta, GA 30064",Marietta,GA,30064,33.946692175189,-84.630033073954,"712,454",$712.5M,1960
 CREDIT UNION OF GEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"1020 Johnson Ferry Rd, Marietta, GA 30068",Marietta,GA,30068,33.974150771978,-84.413726274533,"712,454",$712.5M,1960
 CREDIT UNION OF GEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"4178 Jiles Rd NW Ste 100, Kennesaw, GA 30144",Kennesaw,GA,30144,34.051832824596,-84.616347606112,"712,454",$712.5M,1960
 CREDIT UNION OF GEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"2873 E Cherokee Dr, Canton, GA 30115",Canton,GA,30115,34.172964922084,-84.421548006213,"712,454",$712.5M,1960
-CREDIT UNION OF GEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"4178 Jiles Rd NW Ste 200, Kennesaw, GA 30144",Kennesaw,GA,30144,34.051832824596,-84.616347606112,"712,454",$712.5M,1960
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"1025 Virginia Ave, Atlanta, GA 30354",Atlanta,GA,30354,33.65896882,-84.423445233198,"8,838,377",$8.84B,1940
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"6000 N Terminal Pkwy, Atlanta, GA 30320",Atlanta,GA,30320,33.642321379947,-84.442539931849,"8,838,377",$8.84B,1940
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"3300 Hamilton Mill Rd, Buford, GA 30519",Buford,GA,30519,34.094299912622,-83.935452968336,"8,838,377",$8.84B,1940
@@ -2177,11 +2156,9 @@ DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"1708 Scenic Hwy
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"285 Center Pointe Pkwy, Stockbridge, GA 30281",Stockbridge,GA,30281,33.513506424284,-84.21500991878,"8,838,377",$8.84B,1940
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"5006 Mount Zion Pkwy, Stockbridge, GA 30281",Stockbridge,GA,30281,33.548818401021,-84.290423622043,"8,838,377",$8.84B,1940
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"3250 Riverwood Pkwy SE, Atlanta, GA 30339",Atlanta,GA,30339,33.877253892875,-84.46061429081,"8,838,377",$8.84B,1940
-DELTA COMMUNITY,Credit Union,Multiple Common Bond,N/A,"1775 M H Jackson Service Rd, Atlanta, GA 30354",Atlanta,GA,30354,,,"8,838,377",$8.84B,1940
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"1030 Delta Blvd, Atlanta, GA 30354",Atlanta,GA,30354,33.65805226589,-84.423025140386,"8,838,377",$8.84B,1940
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,North Georgia,"891 Dawsonville Hwy Ste 140, Gainesville, GA 30501",Gainesville,GA,30501,34.297510867312,-83.856011645999,"8,838,377",$8.84B,1940
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"160 Clairemont Ave, Decatur, GA 30030",Decatur,GA,30030,33.776996496452,-84.296571577817,"8,838,377",$8.84B,1940
-DELTA COMMUNITY,Credit Union,Multiple Common Bond,N/A,"6700 McGinnis Ferry Rd, Johns Creek, GA 30097",Johns Creek,GA,30097,,,"8,838,377",$8.84B,1940
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"1745 Peachtree St NE Ste B, Atlanta, GA 30309",Atlanta,GA,30309,33.79879198397,-84.387639346575,"8,838,377",$8.84B,1940
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"11575 Haynes Bridge Rd, Alpharetta, GA 30009",Alpharetta,GA,30009,34.063188858835,-84.291258775687,"8,838,377",$8.84B,1940
 DELTA COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"3350 Riverwood Pkwy SE, Atlanta, GA 30339",Atlanta,GA,30339,33.878156630008,-84.45916098377,"8,838,377",$8.84B,1940
@@ -2210,7 +2187,6 @@ FAMILY FIRST,Credit Union,Multiple Common Bond,Metro Atlanta,"3604 Atlanta Ave, 
 FAMILY FIRST,Credit Union,Multiple Common Bond,Metro Atlanta,"1560 Holcomb Bridge Rd, Roswell, GA 30076",Roswell,GA,30076,34.019485030657,-84.315316629593,"133,607",$133.6M,1930
 FAMILY FIRST,Credit Union,Multiple Common Bond,Metro Atlanta,"6201 Powers Ferry Rd, Atlanta, GA 30339",Atlanta,GA,30339,33.909261256446,-84.426255432703,"133,607",$133.6M,1930
 FAMILY SAVINGS,Credit Union,Multiple Common Bond,N/A,"101 Felton Dr, Rockmart, GA 30153",Rockmart,GA,30153,,,"1,128,689",$1.13B,1951
-FAMILY SAVINGS,Credit Union,Multiple Common Bond,N/A,"342 Charles Hardy Pkwy, Hiram, GA 30141",Hiram,GA,30141,,,"1,128,689",$1.13B,1951
 FAMILY SAVINGS,Credit Union,Multiple Common Bond,North Georgia,"1273 Curtis Pkwy SE, Calhoun, GA 30701",Calhoun,GA,30701,34.475558797847,-84.922660311491,"1,128,689",$1.13B,1951
 FAMILY SAVINGS,Credit Union,Multiple Common Bond,Metro Atlanta,"205 Douthit Ferry Rd, Cartersville, GA 30120",Cartersville,GA,30120,34.147528085763,-84.824374784068,"1,128,689",$1.13B,1951
 FAMILY SAVINGS,Credit Union,Multiple Common Bond,Metro Atlanta,"3 Ryan Blvd NE, Cartersville, GA 30121",Cartersville,GA,30121,34.210140313179,-84.798629003649,"1,128,689",$1.13B,1951
@@ -2232,7 +2208,6 @@ FIVE STAR,Credit Union,Multiple Common Bond,Central Georgia,"1825 W HIGHWAY 280,
 FIVE STAR,Credit Union,Multiple Common Bond,Central Georgia,"4070 FORSYTH RD, MACON, GA 31210",MACON,GA,31210,32.865547284791,-83.693329760273,"1,224,840",$1.22B,1964
 FIVE STAR,Credit Union,Multiple Common Bond,Central Georgia,"498 POPLAR ST, MACON, GA 31201",MACON,GA,31201,32.833092649019,-83.628350412305,"1,224,840",$1.22B,1964
 FLINT,Credit Union,Occupational,Central Georgia,"3 S Macon ST, Reynolds, GA 31076",Reynolds,GA,31076,32.554884995746,-84.094604804793,"2,984",$3.0M,1964
-FLINT,Credit Union,Occupational,Central Georgia,"3 S Macon St, Reynolds, GA 31076",Reynolds,GA,31076,32.554884995746,-84.094604804793,"2,984",$3.0M,1964
 FLINT RIVER EMPLOYEES,Credit Union,Occupational,Central Georgia,"2449 Stagecoach Rd, Oglethorpe, GA 31068",Oglethorpe,GA,31068,32.254196831794,-84.07390740132,"1,748",$1.7M,1982
 GENUINE PARTS,Credit Union,Multiple Common Bond,Metro Atlanta,"5420 Peachtree Industrial Blvd, Norcross, GA 30071",Norcross,GA,30071,33.959780715209,-84.210682901921,"22,348",$22.3M,1937
 GENUINE PARTS,Credit Union,Multiple Common Bond,N/A,"2999 Circle 75 Pkwy SE, Atlanta, GA 30339",Atlanta,GA,30339,,,"22,348",$22.3M,1937
@@ -2265,7 +2240,6 @@ GEORGIA'S OWN,Credit Union,Multiple Common Bond,Metro Atlanta,"1979 Lakeside Pkw
 GEORGIA'S OWN,Credit Union,Multiple Common Bond,Coastal Georgia,"401 Mall Blvd Ste 101A, Savannah, GA 31406",Savannah,GA,31406,32.002724831406,-81.11213015304,"4,330,518",$4.33B,1934
 GEORGIA'S OWN,Credit Union,Multiple Common Bond,Metro Atlanta,"7197 Jonesboro Rd, Morrow, GA 30260",Morrow,GA,30260,33.558320487678,-84.346027295443,"4,330,518",$4.33B,1934
 GEORGIA'S OWN,Credit Union,Multiple Common Bond,N/A,"475 Dawsonville Hwy Ste F, Gainesville, GA 30501",Gainesville,GA,30501,,,"4,330,518",$4.33B,1934
-GEORGIA'S OWN,Credit Union,Multiple Common Bond,N/A,"2437 Loganville Hwy, Grayson, GA 30017",Grayson,GA,30017,,,"4,330,518",$4.33B,1934
 GEORGIA'S OWN,Credit Union,Multiple Common Bond,Metro Atlanta,"3360 Buford Dr, Buford, GA 30519",Buford,GA,30519,34.074214235893,-83.984105933523,"4,330,518",$4.33B,1934
 GEORGIA'S OWN,Credit Union,Multiple Common Bond,Metro Atlanta,"1861 Highway 138 SE, Conyers, GA 30013",Conyers,GA,30013,33.67085336894,-83.984068122342,"4,330,518",$4.33B,1934
 GEORGIA'S OWN,Credit Union,Multiple Common Bond,Metro Atlanta,"5895 Stewart Pkwy, Douglasville, GA 30135",Douglasville,GA,30135,33.719088406103,-84.772271614282,"4,330,518",$4.33B,1934
@@ -2291,7 +2265,6 @@ GEOVISTA,Credit Union,Community-Based,Coastal Georgia,"601 W Oglethorpe Hwy, Hin
 GEOVISTA,Credit Union,Community-Based,N/A,"793 Hase Road Bldg 416, Fort Stewart, GA 31314",Fort Stewart,GA,31314,,,"238,831",$238.8M,1964
 GEOVISTA,Credit Union,Community-Based,Coastal Georgia,"133 Haley Ave, Savannah, GA 31409",Savannah,GA,31409,32.023937532391,-81.124833922554,"238,831",$238.8M,1964
 GEOVISTA,Credit Union,Community-Based,Coastal Georgia,"271 S Columbia Ave, Rincon, GA 31326",Rincon,GA,31326,32.284518607953,-81.233523454402,"238,831",$238.8M,1964
-GEOVISTA,Credit Union,Community-Based,N/A,"107 Grand Central Blvd, Pooler, GA 31322",Pooler,GA,31322,,,"238,831",$238.8M,1964
 GEOVISTA,Credit Union,Community-Based,Coastal Georgia,"620 S Zetterower Ave, Statesboro, GA 30458",Statesboro,GA,30458,32.435304074612,-81.781600192139,"238,831",$238.8M,1964
 GEOVISTA,Credit Union,Community-Based,Coastal Georgia,"11090 Ford Ave, Richmond Hill, GA 31324",Richmond Hill,GA,31324,31.935361273564,-81.301105217792,"238,831",$238.8M,1964
 GLYNN COUNTY FEDERAL EMPLOYEES,Credit Union,Multiple Common Bond,N/A,"C O Bldg 86, Brunswick, GA 31524",Brunswick,GA,31524,,,"22,191",$22.2M,1953
@@ -2331,10 +2304,8 @@ LANIER,Credit Union,Community-Based,North Georgia,"1430 Thompson Bridge Rd, Gain
 LANIER,Credit Union,Community-Based,Central Georgia,"960 Lee St Ste 100, Jefferson, GA 30549",Jefferson,GA,30549,34.110694258342,-83.586964351812,"70,254",$70.3M,1969
 LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"590 Commerce Park Dr SE, Marietta, GA 30060",Marietta,GA,30060,33.941242380887,-84.532502834627,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,N/A,"2760 E West Connector, Austell, GA 30106",Austell,GA,30106,,,"2,310,249",$2.31B,1951
-LGE COMMUNITY,Credit Union,Multiple Common Bond,N/A,"3891 Cobb Pkwy NW, Acworth, GA 30101",Acworth,GA,30101,,,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"5875 Wendy Bagwell Pkwy, Hiram, GA 30141",Hiram,GA,30141,33.883935983246,-84.730927043568,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"2050 Cobb Pkwy NW, Kennesaw, GA 30152",Kennesaw,GA,30152,34.004301709272,-84.601682720367,"2,310,249",$2.31B,1951
-LGE COMMUNITY,Credit Union,Multiple Common Bond,N/A,"PROVIDENCE SQ SHPG CTR, Marietta, GA 30062",Marietta,GA,30062,,,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"12900 Highway 92, Woodstock, GA 30188",Woodstock,GA,30188,34.087674143457,-84.471704676132,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"655 Holcomb Bridge Rd, Roswell, GA 30076",Roswell,GA,30076,34.033321450093,-84.341645976581,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"2018 Cumming Hwy, Canton, GA 30115",Canton,GA,30115,34.237174038253,-84.456466961493,"2,310,249",$2.31B,1951
@@ -2343,7 +2314,6 @@ LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"2905 Atlanta Rd S
 LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"18 Georgia Heritage Pl, Dallas, GA 30132",Dallas,GA,30132,33.908941789132,-84.819639647093,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"2855 Old Milton Pkwy Ste 104, Alpharetta, GA 30009",Alpharetta,GA,30009,34.068575539097,-84.277417062144,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"3100 Cumberland Blvd SE, Atlanta, GA 30339",Atlanta,GA,30339,33.877589799418,-84.463761718018,"2,310,249",$2.31B,1951
-LGE COMMUNITY,Credit Union,Multiple Common Bond,N/A,"936 Towne Lake Pkwy, Woodstock, GA 30189",Woodstock,GA,30189,,,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,Metro Atlanta,"6637 Roswell Rd, Sandy Springs, GA 30328",Sandy Springs,GA,30328,33.936535393854,-84.378565090765,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,North Georgia,"305 W Belmont Dr, Calhoun, GA 30701",Calhoun,GA,30701,34.479908458322,-84.939621454281,"2,310,249",$2.31B,1951
 LGE COMMUNITY,Credit Union,Multiple Common Bond,North Georgia,"1490 Martha Berry Blvd NE, Rome, GA 30165",Rome,GA,30165,34.271522040972,-85.181361545315,"2,310,249",$2.31B,1951
@@ -2372,7 +2342,6 @@ MEMBERSFIRST,Credit Union,Multiple Common Bond,Metro Atlanta,"1968 Peachtree Rd 
 MEMBERSFIRST,Credit Union,Multiple Common Bond,Central Georgia,"775 Poplar Rd Ste 125, Newnan, GA 30265",Newnan,GA,30265,33.359222773411,-84.75346133728,"413,934",$413.9M,1953
 MEMBERSFIRST,Credit Union,Multiple Common Bond,Metro Atlanta,"6500 Alexander Pkwy, Douglasville, GA 30135",Douglasville,GA,30135,33.682000902362,-84.792368706116,"413,934",$413.9M,1953
 MEMBERSFIRST,Credit Union,Multiple Common Bond,Coastal Georgia,"1501 Pooler Pkwy, Pooler, GA 31322",Pooler,GA,31322,32.096995059767,-81.272018159545,"413,934",$413.9M,1953
-MEMBERSFIRST,Credit Union,Multiple Common Bond,N/A,"151 Coach Joe Turner St, Garden City, GA 31408",Garden City,GA,31408,,,"413,934",$413.9M,1953
 MEMBERSFIRST,Credit Union,Multiple Common Bond,Coastal Georgia,"3219 College St, Savannah, GA 31404",Savannah,GA,31404,32.024736704065,-81.055708282076,"413,934",$413.9M,1953
 MERCY,Credit Union,Occupational,Coastal Georgia,"11806 McAuley Dr, Savannah, GA 31419",Savannah,GA,31419,31.98665794771,-81.153302055521,"12,667",$12.7M,1976
 MERCY,Credit Union,Occupational,N/A,"Candler Hospital, Savannah, GA 31405",Savannah,GA,31405,,,"12,667",$12.7M,1976
@@ -2392,7 +2361,6 @@ MYGEORGIA,Credit Union,Multiple Common Bond,North Georgia,"976 Dawsonville Hwy, 
 MYGEORGIA,Credit Union,Multiple Common Bond,North Georgia,"379 E Kytle St, cleveland, GA 30528",cleveland,GA,30528,34.595195657561,-83.756817106663,"239,372",$239.4M,1971
 MYGEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"5900 Spout Springs Rd Ste W2, Flowery Branch, GA 30542",Flowery Branch,GA,30542,34.176959249948,-83.911063457268,"239,372",$239.4M,1971
 MYGEORGIA,Credit Union,Multiple Common Bond,N/A,"120 Church Sawmill Rd, Clarkesville, GA 30523",Clarkesville,GA,30523,,,"239,372",$239.4M,1971
-MYGEORGIA,Credit Union,Multiple Common Bond,N/A,"122 Plaza Way, Clayton, GA 30525",Clayton,GA,30525,,,"239,372",$239.4M,1971
 MYGEORGIA,Credit Union,Multiple Common Bond,North Georgia,"448 Evans St, Homer, GA 30547",Homer,GA,30547,34.323003247312,-83.500606841774,"239,372",$239.4M,1971
 MYGEORGIA,Credit Union,Multiple Common Bond,Central Georgia,"205 Collins Industrial Blvd, Athens, GA 30601",Athens,GA,30601,33.980548594041,-83.350556183325,"239,372",$239.4M,1971
 MYGEORGIA,Credit Union,Multiple Common Bond,Metro Atlanta,"1681 Old Pendergrass Rd, Jefferson, GA 30549",Jefferson,GA,30549,34.122909119463,-83.606977899045,"239,372",$239.4M,1971
@@ -2400,7 +2368,6 @@ NAVY FEDERAL CREDIT UNION,Credit Union,Other,Metro Atlanta,"2470 Briarcliff Rd N
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,Coastal Georgia,"263 Robert C Daniel Jr Pkwy # A, Augusta, GA 30909",Augusta,GA,30909,33.476192943679,-82.070754254198,"194,179,276",$194.18B,1947
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,N/A,"1229 USS Daniel Boone Ave, Kings Bay, GA 31547",Kings Bay,GA,31547,,,"194,179,276",$194.18B,1947
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,Metro Atlanta,"5140 Windward Pkwy, Alpharetta, GA 30004",Alpharetta,GA,30004,34.091699555071,-84.27610368513,"194,179,276",$194.18B,1947
-NAVY FEDERAL CREDIT UNION,Credit Union,Other,N/A,"Snellville Crossing Shopping Center, Snellville, GA 30078",Snellville,GA,30078,,,"194,179,276",$194.18B,1947
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,Coastal Georgia,"1195 Charlie Smith Sr Hwy, Saint Marys, GA 31558",Saint Marys,GA,31558,30.768614775423,-81.576418437863,"194,179,276",$194.18B,1947
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,Metro Atlanta,"113 Highway 138 W, Stockbridge, GA 30281",Stockbridge,GA,30281,33.540309919079,-84.198852221845,"194,179,276",$194.18B,1947
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,Coastal Georgia,"3490 US HIGHWAY 17, RICHMOND HILL, GA 31324",RICHMOND HILL,GA,31324,31.933673251148,-81.323280071841,"194,179,276",$194.18B,1947
@@ -2418,7 +2385,6 @@ NAVY FEDERAL CREDIT UNION,Credit Union,Other,Metro Atlanta,"1155 Highway 85 N, F
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,Metro Atlanta,"4320 Lavista Rd, Tucker, GA 30084",Tucker,GA,30084,33.84764757713,-84.242206349669,"194,179,276",$194.18B,1947
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,Metro Atlanta,"2980 Cobb Pkwy SE, Atlanta, GA 30339",Atlanta,GA,30339,33.880096758133,-84.4606447381,"194,179,276",$194.18B,1947
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,Metro Atlanta,"3620 Camp Creek Pkwy SW, Atlanta, GA 30331",Atlanta,GA,30331,33.67398974834,-84.509401777097,"194,179,276",$194.18B,1947
-NAVY FEDERAL CREDIT UNION,Credit Union,Other,N/A,"1108 Bullsboro Dr, Newnan, GA 30265",Newnan,GA,30265,,,"194,179,276",$194.18B,1947
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,Central Georgia,"3201 Macon Rd, Columbus, GA 31906",Columbus,GA,31906,32.480591156202,-84.943103976055,"194,179,276",$194.18B,1947
 NAVY FEDERAL CREDIT UNION,Credit Union,Other,Central Georgia,"814 Radford Blvd, Albany, GA 31704",Albany,GA,31704,31.549922702449,-84.064839845264,"194,179,276",$194.18B,1947
 NORTH GEORGIA,Credit Union,Multiple Common Bond,N/A,"695 Big A Rd, Toccoa, GA 30577",Toccoa,GA,30577,,,"113,686",$113.7M,1991
@@ -2436,19 +2402,16 @@ PEACH STATE,Credit Union,Occupational,Metro Atlanta,"875 Oak Rd, Lawrenceville, 
 PEACH STATE,Credit Union,Occupational,Metro Atlanta,"216 N Broad St, Winder, GA 30680",Winder,GA,30680,33.999138896072,-83.71197081652,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,N/A,"455 Highway 23 NW, Suwanee, GA 30024",Suwanee,GA,30024,,,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,Metro Atlanta,"107 Lee Byrd Rd, Loganville, GA 30052",Loganville,GA,30052,33.833778743931,-83.88230262733,"1,089,115",$1.09B,1961
-PEACH STATE,Credit Union,Occupational,N/A,"437 Old Peachtree Rd NW, Suwanee, GA 30024",Suwanee,GA,30024,,,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,Central Georgia,"948 Lee St, Jefferson, GA 30549",Jefferson,GA,30549,34.110778084195,-83.586857892977,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,Central Georgia,"155 Hawthorne Park, Athens, GA 30606",Athens,GA,30606,33.970143955964,-83.415850821133,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,Metro Atlanta,"5381 Panola Industrial Blvd, Decatur, GA 30035",Decatur,GA,30035,33.707249947201,-84.171070953054,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,Metro Atlanta,"1307 W Spring St, Monroe, GA 30655",Monroe,GA,30655,33.791883694708,-83.735843935224,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,Metro Atlanta,"2899 N Decatur Rd, Decatur, GA 30033",Decatur,GA,30033,33.793660010003,-84.271823320258,"1,089,115",$1.09B,1961
-PEACH STATE,Credit Union,Occupational,N/A,"1505 Lakes Pkwy Ste 100, Lawrenceville, GA 30043",Lawrenceville,GA,30043,,,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,Coastal Georgia,"2048 Tobacco Rd, Augusta, GA 30906",Augusta,GA,30906,33.370683559172,-82.024455935719,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,Coastal Georgia,"864 Broad St, Augusta, GA 30901",Augusta,GA,30901,33.475549141259,-81.966815404727,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,Central Georgia,"1260 Mars Hill Rd, Watkinsville, GA 30677",Watkinsville,GA,30677,33.876676222447,-83.447505036611,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,North Georgia,"665 Historic 441 Hwy, Cornelia, GA 30531",Cornelia,GA,30531,34.545375625169,-83.545643330531,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,North Georgia,"37 Selman Dr, Trion, GA 30753",Trion,GA,30753,34.524224858456,-85.311220525735,"1,089,115",$1.09B,1961
-PEACH STATE,Credit Union,Occupational,N/A,"568 Liberty Hill Rd, Toccoa, GA 30577",Toccoa,GA,30577,,,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,North Georgia,"710 N Main St, La Fayette, GA 30728",La Fayette,GA,30728,34.717116950057,-85.279735953068,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,North Georgia,"693 Main St, Young Harris, GA 30582",Young Harris,GA,30582,34.935729873564,-83.848743937716,"1,089,115",$1.09B,1961
 PEACH STATE,Credit Union,Occupational,North Georgia,"1107 Hull Ave, Carnesville, GA 30521",Carnesville,GA,30521,34.369279838889,-83.235076779595,"1,089,115",$1.09B,1961
@@ -2476,17 +2439,13 @@ ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"5999 Zebulon
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"10 Hunter Ave, Mc Rae, GA 31055",Mc Rae,GA,31055,32.066760442771,-82.893064390504,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"321 Perry Pkwy, Perry, GA 31069",Perry,GA,31069,32.477475196123,-83.707934668902,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"2584 N Columbia St, Milledgeville, GA 31061",Milledgeville,GA,31061,33.111990949972,-83.257755228428,"4,719,366",$4.72B,1954
-ROBINS FINANCIAL,Credit Union,Multiple Common Bond,N/A,"100 Cochran St, Robins AFB, GA 31098",Robins AFB,GA,31098,,,"4,719,366",$4.72B,1954
-ROBINS FINANCIAL,Credit Union,Multiple Common Bond,N/A,"335 S Main St, Swainsboro, GA 30401",Swainsboro,GA,30401,,,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"803 Watson Blvd, Warner Robins, GA 31093",Warner Robins,GA,31093,32.618709741193,-83.609731565664,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"502 S Houston Lake Rd, Warner Robins, GA 31088",Warner Robins,GA,31088,32.605209339794,-83.675079066587,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"901 GA Highway 96, Warner Robins, GA 31088",Warner Robins,GA,31088,32.554563095029,-83.663984896471,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"76 E Johnston St, Forsyth, GA 31029",Forsyth,GA,31029,33.034985245431,-83.936530668956,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"2930 Riverside Dr, Macon, GA 31204",Macon,GA,31204,32.882212849373,-83.670084831173,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"1102 Hillcrest Pkwy, Dublin, GA 31021",Dublin,GA,31021,32.547586534536,-82.929544041215,"4,719,366",$4.72B,1954
-ROBINS FINANCIAL,Credit Union,Multiple Common Bond,N/A,"4850 Russell Pkwy, Warner Robins, GA 31088",Warner Robins,GA,31088,,,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"2273 Hog Mountain Rd, Watkinsville, GA 30677",Watkinsville,GA,30677,33.870936182506,-83.443441381363,"4,719,366",$4.72B,1954
-ROBINS FINANCIAL,Credit Union,Multiple Common Bond,N/A,"1793 Highway 138 SE, Conyers, GA 30013",Conyers,GA,30013,,,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"1006 Main St, Perry, GA 31069",Perry,GA,31069,32.458266534773,-83.730834706154,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"515 Mulberry St, Macon, GA 31201",Macon,GA,31201,32.83729933516,-83.626537494129,"4,719,366",$4.72B,1954
 ROBINS FINANCIAL,Credit Union,Multiple Common Bond,Central Georgia,"1051 Milledgeville Hwy, Milledgeville, GA 31061",Milledgeville,GA,31061,33.200123336142,-83.295357688678,"4,719,366",$4.72B,1954
@@ -2502,7 +2461,6 @@ SOUTHEASTERN,Credit Union,Multiple Common Bond,Rural South Georgia,"3669 Inner P
 SOUTHEASTERN,Credit Union,Multiple Common Bond,Rural South Georgia,"2212 Tift Ave N, Tifton, GA 31794",Tifton,GA,31794,31.474539520732,-83.503127615308,"416,116",$416.1M,1953
 SOUTHEASTERN,Credit Union,Multiple Common Bond,Rural South Georgia,"902 S Davis St, Nashville, GA 31639",Nashville,GA,31639,31.217217201312,-83.249037304948,"416,116",$416.1M,1953
 SOUTHEASTERN,Credit Union,Multiple Common Bond,Rural South Georgia,"1912 Memorial Dr Ste F, Waycross, GA 31501",Waycross,GA,31501,31.20307060328,-82.332810194158,"416,116",$416.1M,1953
-SOUTHEASTERN,Credit Union,Multiple Common Bond,N/A,"205 E Screven St, Quitman, GA 31643",Quitman,GA,31643,,,"416,116",$416.1M,1953
 SOUTHEASTERN,Credit Union,Multiple Common Bond,Rural South Georgia,"250 Doc Darbyshire Rd, Moultrie, GA 31788",Moultrie,GA,31788,31.194122203058,-83.7613911776,"416,116",$416.1M,1953
 SOUTHERN ENERGY,Credit Union,Multiple Common Bond,N/A,"30 Ivan Allen Jr Blvd NW, Atlanta, GA 30308",Atlanta,GA,30308,,,"3,564,928",$3.56B,1953
 SOUTHERN ENERGY,Credit Union,Multiple Common Bond,Central Georgia,"285 Newton Bridge Rd, Athens, GA 30607",Athens,GA,30607,33.987063280379,-83.397143491608,"3,564,928",$3.56B,1953
@@ -2512,7 +2470,6 @@ SOUTHERN ENERGY,Credit Union,Multiple Common Bond,Metro Atlanta,"241 Ralph McGil
 SOUTHERN ENERGY,Credit Union,Multiple Common Bond,Metro Atlanta,"2500 Patrick Henry Pkwy, McDonough, GA 30253",McDonough,GA,30253,33.498784321409,-84.221150388347,"3,564,928",$3.56B,1953
 SOUTHERN ENERGY,Credit Union,Multiple Common Bond,Coastal Georgia,"3101 Kilowatt Dr, Savannah, GA 31405",Savannah,GA,31405,32.057344110278,-81.120771449208,"3,564,928",$3.56B,1953
 SOUTHERN ENERGY,Credit Union,Multiple Common Bond,Metro Atlanta,"10 Peachtree Pl NE, Atlanta, GA 30309",Atlanta,GA,30309,33.780812854499,-84.386391229631,"3,564,928",$3.56B,1953
-SOUTHERN PINE,Credit Union,Multiple Common Bond,Rural South Georgia,"5495 Clyattville Lake Park Rd, Valdosta, GA 31601",Valdosta,GA,31601,30.689408173322,-83.300853069347,"30,006",$30.0M,1991
 SOUTHERN PINE,Credit Union,Multiple Common Bond,Rural South Georgia,"5495 Clyattville Lake Park Rd, Valdosta, GA 31601",Valdosta,GA,31601,30.689408173322,-83.300853069347,"30,006",$30.0M,1991
 SPIRIT OF AMERICA,Credit Union,Occupational,Metro Atlanta,"375 Riverside Pkwy, Lithia Springs, GA 30122",Lithia Springs,GA,30122,33.743617191656,-84.582820884767,"53,659",$53.7M,1943
 SRP,Credit Union,Community-Based,Coastal Georgia,"1007 Broad St, Augusta, GA 30901",Augusta,GA,30901,33.476939081561,-81.969745146075,"1,978,673",$1.98B,1960
@@ -2528,11 +2485,9 @@ STEPHENS COUNTY COMMUNITY,Credit Union,Community-Based,North Georgia,"51 W Doyle
 TENNESSEE VALLEY,Credit Union,Community-Based,N/A,"200 Alamar St, Fort Oglethorpe, GA 30742",Fort Oglethorpe,GA,30742,,,"2,972,480",$2.97B,1936
 TENNESSEE VALLEY,Credit Union,Community-Based,North Georgia,"35 Poplar Springs Rd, Ringgold, GA 30736",Ringgold,GA,30736,34.906232986856,-85.1313138987,"2,972,480",$2.97B,1936
 TENNESSEE VALLEY,Credit Union,Community-Based,North Georgia,"150 Highway 41, Ringgold, GA 30736",Ringgold,GA,30736,34.984460553895,-85.187339427185,"2,972,480",$2.97B,1936
-TENNESSEE VALLEY,Credit Union,Community-Based,N/A,"13176 N Hwy 27, Chickamauga, GA 30707",Chickamauga,GA,30707,,,"2,972,480",$2.97B,1936
 TENNESSEE VALLEY,Credit Union,Community-Based,North Georgia,"1507 Broomtown Rd, La Fayette, GA 30728",La Fayette,GA,30728,34.687606017698,-85.301363856615,"2,972,480",$2.97B,1936
 TENNESSEE VALLEY,Credit Union,Community-Based,North Georgia,"502 Gi Maddox Pkwy, Chatsworth, GA 30705",Chatsworth,GA,30705,34.78362695324,-84.776302471121,"2,972,480",$2.97B,1936
 TENNESSEE VALLEY,Credit Union,Community-Based,North Georgia,"920 Vista Dr, Dalton, GA 30721",Dalton,GA,30721,34.798497782039,-84.954158641697,"2,972,480",$2.97B,1936
-TENNESSEE VALLEY,Credit Union,Community-Based,N/A,"112 Crimson Dr, Trenton, GA 30752",Trenton,GA,30752,,,"2,972,480",$2.97B,1936
 THE BRIDGEWAY,Credit Union,Multiple Common Bond,Central Georgia,"709 Veterans Pkwy, Columbus, GA 31901",Columbus,GA,31901,32.459250759321,-84.98775243434,"63,257",$63.3M,1960
 THE BRIDGEWAY,Credit Union,Multiple Common Bond,Central Georgia,"1115 N Westover Blvd, Albany, GA 31707",Albany,GA,31707,31.618435357822,-84.213199723215,"63,257",$63.3M,1960
 THE SOUTHERN,Credit Union,Multiple Common Bond,Central Georgia,"430 Lanier Ave E, Fayetteville, GA 30214",Fayetteville,GA,30214,33.449650743628,-84.446671820314,"550,186",$550.2M,1963
